@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .myContainer{
+        @apply max-w-screen-lg container px-40 mx-auto py-24;
+    }
+}
