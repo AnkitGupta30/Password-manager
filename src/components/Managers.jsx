@@ -125,7 +125,7 @@ const Managers = () => {
       />
       {/* Same as */}
       <ToastContainer />
-      <div className="px-2 md:myContainer  z-0 pt-[98px]">
+      <div className="px-2 md:myContainer min-h-[95vh]  z-0 pt-[98px]">
         <h1 className="text-3xl font-bold text-center">
           <span className="text-green-500">&lt;</span>
           <span>Pass</span>
